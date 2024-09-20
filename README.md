@@ -6,10 +6,10 @@ Face mask detection adalah proses identifikasi dan pengenalan apakah seseorang m
 
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="600" height="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="300" height="300"/>
 </div>
 <div align="center">
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="600" height="300"/>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="300" height="300"/>
 </div>
 
 
