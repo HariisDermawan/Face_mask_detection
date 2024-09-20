@@ -13,7 +13,7 @@ Face mask detection adalah proses identifikasi dan pengenalan apakah seseorang m
 
 <div align="center">
     <a href="https://www.arduino.cc/en/software">
-        <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Arduino_Logo.svg" alt="Arduino Icon" width="100"/>
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino Icon" width="100"/>
     </a>
 </div>
 
