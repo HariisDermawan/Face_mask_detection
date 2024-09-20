@@ -4,17 +4,12 @@
 
 Face mask detection adalah proses identifikasi dan pengenalan apakah seseorang mengenakan masker wajah atau tidak. Teknologi ini sering digunakan dalam konteks kesehatan masyarakat, terutama selama pandemi COVID-19, untuk memastikan bahwa individu mematuhi protokol kesehatan.
 
-<div style="display: flex; justify-content: center; gap: 50px;">
-    <div style="text-align: center;">
-        <a href="https://www.python.org/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" width="100"/>
-        </a>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://www.arduino.cc/en/software">
-            <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino Icon" width="100"/>
-        </a>
-    </div>
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="600" height="300"/>
+</div>
+<div align="center">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="600" height="300"/>
 </div>
 
 
