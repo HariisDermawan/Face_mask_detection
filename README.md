@@ -9,11 +9,13 @@ Face mask detection adalah proses identifikasi dan pengenalan apakah seseorang m
         <a href="https://www.python.org/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" width="100"/>
         </a>
+        <p style="font-bold">Python</p>
     </div>
     <div style="text-align: center;">
         <a href="https://www.arduino.cc/en/software">
             <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino Icon" width="100"/>
         </a>
+        <p style="font-bold">Arduino</p>
     </div>
 </div>
 
